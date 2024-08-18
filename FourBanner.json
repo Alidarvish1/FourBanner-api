@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "image": "./public/images/story-images/1.jpg",
+    "text": "لایو شگفت انگیز اینجاست"
+  },
+  {
+    "id": 2,
+    "image": "./public/images/story-images/1.jpg",
+    "text": "رنگ موهاتو تثبیت کن، نذار زرد بشه"
+  },
+  {
+    "id": 3,
+    "image": "./story-images/3.jpg",
+    "text": "کارگران دریا کتاب آسونیه؟"
+  },
+  {
+    "id": 4,
+    "image": "./story-images/4.jpg",
+    "text": "بررسی تخته وایت برد آلفا ۶۰×۴۰ سانتی متر"
+  }
+]
