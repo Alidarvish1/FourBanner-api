@@ -1,22 +1,22 @@
 [
   {
     "id": 1,
-    "image": "./public/images/story-images/1.jpg",
-    "text": "لایو شگفت انگیز اینجاست"
+    "image": "https://alidarvish1.github.io/FourBanner-api/images/1.gif",
+    "alt": "image-1"
   },
   {
     "id": 2,
-    "image": "./public/images/story-images/1.jpg",
-    "text": "رنگ موهاتو تثبیت کن، نذار زرد بشه"
+    "image": "https://alidarvish1.github.io/FourBanner-api/images/2.jpg",
+    "alt": "image-2"
   },
   {
     "id": 3,
-    "image": "./story-images/3.jpg",
-    "text": "کارگران دریا کتاب آسونیه؟"
+    "image": "https://alidarvish1.github.io/FourBanner-api/images/3.jpg",
+    "alt": "image-3"
   },
   {
     "id": 4,
-    "image": "./story-images/4.jpg",
-    "text": "بررسی تخته وایت برد آلفا ۶۰×۴۰ سانتی متر"
+    "image": "https://alidarvish1.github.io/FourBanner-api/images/4.jpg",
+    "alt": "image-4"
   }
 ]
